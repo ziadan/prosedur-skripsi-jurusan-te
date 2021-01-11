@@ -96,23 +96,26 @@
     border: none;
 }
 
-h2,h3{
-    font-weight: bold;
-}
+
 
 h2{
     font-size: 20px;
 }
 h3{
     line-height: 20px;
+    font-size: 17px;
 }
 
+h2,h3,h4,h5{
+    font-weight: 700;
+}
 .panel-outline h3{
     font-size: 17px;   
     margin: 0;
     line-height: 1;
     color: #888;
 }
+
 
 .referensi{
     margin-bottom: 30px;
